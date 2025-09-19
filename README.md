@@ -1,2 +1,2 @@
 # Tic-tac-toe
-This is a game made with html,tailwind css and javascript
+This is tic tac toe game made with HTML, Tailwind CSS, and JavaScript
